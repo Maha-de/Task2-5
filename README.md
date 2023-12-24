@@ -1,3 +1,4 @@
+My Main dart is in "bin", and the car class is in "lib".
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
